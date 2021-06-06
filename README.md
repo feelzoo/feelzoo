@@ -1,7 +1,8 @@
 ### Hi there! :full_moon_with_face:
 
-https://drive.google.com/file/d/1IP6A8i66LuL-QFW2fnGGNo3mNxiSqqPt/view?usp=sharing
 
+
+![feelzoo](https://drive.google.com/uc?export=view&id=1IP6A8i66LuL-QFW2fnGGNo3mNxiSqqPt)
 
 
 :blue_book: reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
