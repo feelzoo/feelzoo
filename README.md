@@ -1,13 +1,21 @@
 ### Hi there! :full_moon_with_face:
 
 
-### Languages
 
+- :blue_book: I'm currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
+
+
+
+### Favorites
+:books: Probably Approximately Correct 
+:movie_camera: Prometheus 
+:basketball: Point guard
+
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![CPLEX](https://img.shields.io/badge/-CPLEX-000?&logo=CPLEX)
-
 
 
 <img height="160px" src = "https://github-readme-stats.vercel.app/api?username=feelzoo&show_icons=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3"><img height="160px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=feelzoo&show_icon=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3">
