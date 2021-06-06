@@ -3,7 +3,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python?&labelColor=F0F1F3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
