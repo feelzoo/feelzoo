@@ -5,7 +5,7 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=feelzoo&show_icons=true&title_color=yellow)
+![Github stats](https://github-readme-stats.vercel.app/api?username=feelzoo&show_icons=true&title_color=#F8CC47)
 
 
 
