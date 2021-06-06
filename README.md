@@ -2,7 +2,7 @@
 
 
 
-- :blue_book: I'm currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
+:blue_book: I'm currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
 
 
 
