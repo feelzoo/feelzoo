@@ -1,4 +1,5 @@
 ### Hi there 👋 
+[![GitHub Views](https://komarev.com/ghpvc/?username=feelzoo&color=0b2749)][1]
 <!--
 **feelzoo/feelzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
