@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![Promodel](https://img.shields.io/badge/-Promodel-000?&logo=Promodel)
+![Promodel](https://img.shields.io/badge/-Promodel-000?&logo=promodel)
 
 
 
