@@ -1,4 +1,4 @@
-### Hi there! :wave:
+### Hi there! :full_moon_with_face:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=feelzoo)
 
