@@ -5,9 +5,9 @@
 
 
 
-!<img height="137px" src = "https://github-readme-stats.vercel.app/api?username=feelzoo&show_icons=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3">
+<img height="137px" src = "https://github-readme-stats.vercel.app/api?username=feelzoo&show_icons=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3">
 
-!<img height="137px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=feelzoo&show_icon=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3">
+<img height="137px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=feelzoo&show_icon=true&title_color=F8CC47&bg_color=0B2749&text_color=F0F1F3&icon_color=F0F1F3">
 
 <!--
 **feelzoo/feelzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
