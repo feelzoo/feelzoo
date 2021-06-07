@@ -5,7 +5,7 @@
 ![feelzoo](https://drive.google.com/uc?export=view&id=1IP6A8i66LuL-QFW2fnGGNo3mNxiSqqPt)
 
 
-:blue_book: reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
+:blue_book: currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
 
 :basketball: Pass-first point guard
 
