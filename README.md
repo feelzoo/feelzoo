@@ -6,12 +6,13 @@
 
 
 :blue_book: reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
-:basketball: Point guard
+
+:basketball: Pass-first point guard
 
 
 ### Favorites
-:books: Probably Approximately Correct 
-:movie_camera: Prometheus 
+:books: favorite book: Probably Approximately Correct 
+:movie_camera: favorite movie: Prometheus 
 
 
 ### Languages
