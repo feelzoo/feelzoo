@@ -15,6 +15,8 @@
 
 :movie_camera: favorite movie: Prometheus 
 
+🏀: favorite sport: Basketball
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
