@@ -5,7 +5,7 @@
 ![feelzoo](https://drive.google.com/uc?export=view&id=1IP6A8i66LuL-QFW2fnGGNo3mNxiSqqPt)
 
 
-:blue_book: currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb
+:blue_book: currently reading 'Cosmos' by Carl Sagan, 'Fooled by Randomness' by Nassim Taleb, Superintelligence by Nick Bostrom
 
 :basketball: Pass-first point guard
 
@@ -16,6 +16,8 @@
 :movie_camera: favorite movie: Prometheus 
 
 🏀 favorite sport: Basketball - Lebron James, CP3
+
+🍲 favorite food: 'Seolleongtang (ox bone soup)'
 
 
 ### Languages
