@@ -15,7 +15,7 @@
 
 :movie_camera: favorite movie: Prometheus 
 
-🏀: favorite sport: Basketball
+🏀 favorite sport: Basketball - Lebron James, CP3
 
 
 ### Languages
