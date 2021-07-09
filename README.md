@@ -13,7 +13,7 @@
 ### Favorites
 :books: favorite book: Probably Approximately Correct 
 
-:movie_camera: favorite movie: Prometheus 
+:movie_camera: favorite movie: Prometheus
 
 🏀 favorite sport: Basketball - Lebron James, CP3
 
